@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1086321074161",
+    "firebase_url": "https://adminsawit-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "adminsawit",
+    "storage_bucket": "adminsawit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086321074161:android:f925d25a5228ac75b0ee50",
+        "android_client_info": {
+          "package_name": "com.example.cobaaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086321074161-90haqkm0bruo65v5agscccodrtcosb67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnrZa_6iDQrSeFJBViGQhlh370LIovw-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086321074161-90haqkm0bruo65v5agscccodrtcosb67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
